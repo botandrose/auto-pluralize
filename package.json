@@ -1,8 +1,16 @@
 {
   "name": "auto-pluralize",
   "version": "0.1.0",
+  "description": "Custom HTML element that automatically pluralizes its inner text based on a count attribute",
   "type": "module",
   "module": "auto-pluralize.js",
+  "main": "auto-pluralize.js",
+  "exports": "./auto-pluralize.js",
+  "repository": "botandrose/auto-pluralize",
+  "license": "MIT",
+  "files": [
+    "auto-pluralize.js"
+  ],
   "dependencies": {
     "pluralize": "^8.0.0"
   },
