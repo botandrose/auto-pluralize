@@ -1,0 +1,12 @@
+{
+  "name": "auto-pluralize",
+  "version": "0.1.0",
+  "type": "module",
+  "module": "auto-pluralize.js",
+  "dependencies": {
+    "pluralize": "^8.0.0"
+  },
+  "devDependencies": {
+    "happy-dom": "^17.4.4"
+  }
+}
